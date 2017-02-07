@@ -1,7 +1,7 @@
 # rpi-tellstick-homeautomation
-Installation script for HomeAutomation for Raspberry PI.
+HomeAutomation installation script for Raspberry PI.
 
-## Links
+### Links
 
 HomeAutomation: http://karpero.mine.nu/ha/
 
@@ -11,20 +11,20 @@ Raspbian Jessie Lite: https://www.raspberrypi.org/downloads/raspbian/
 
 Tellstick: http://forum.telldus.com/
 
-## Requirements
+### Requirements
 
 Freshly installed RPi with Rasbian Jessie Lite.
 
-## Clone this repository on RPI
+### Clone this repository on RPI
 
 git clone https://github.com/ollan/rpi-tellstick-homeautomation.git rpi-tellstick-homeautomation
 
-## Update this repository on RPI
+### Update this repository on RPI
 cd rpi-tellstick-homeautomation
 
 git pull
 
-## Install HomeAutomation on RPi
+### Install HomeAutomation on RPi
 Modify
 tellstick.conf
 (in nano)
@@ -33,12 +33,12 @@ Run
 ./install.sh
 (as root)
 
-## Update HomeAutomation on RPi
+### Update HomeAutomation on RPi
 Run
 ./install.sh
 (as root)
 
-## Backup HomeAutomation on RPi
+### Backup HomeAutomation on RPi
 Run
 ./backup.sh
 (as root)
