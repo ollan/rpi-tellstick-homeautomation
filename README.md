@@ -7,6 +7,7 @@ git clone https://github.com/ollan/rpi-tellstick-homeautomation.git rpi-tellstic
 
 ## Update this repository on RPI
 cd rpi-tellstick-homeautomation
+
 git pull
 
 ## Install HomeAutomation on RPi
