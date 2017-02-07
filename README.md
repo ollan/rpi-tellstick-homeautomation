@@ -12,7 +12,7 @@ Tellstick: http://forum.telldus.com/
 
 ## Requirements
 
-Freshly installed RPi with Rasobian Jessie Lite.
+Freshly installed RPi with Rasbian Jessie Lite.
 
 ## Clone this repository on RPI
 
