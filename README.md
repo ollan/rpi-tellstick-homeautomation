@@ -1,6 +1,7 @@
 # rpi-tellstick-homeautomation
 Installation script for HomeAutomation for Raspberry PI.
 
+## Links
 
 HomeAutomation: http://karpero.mine.nu/ha/
 
