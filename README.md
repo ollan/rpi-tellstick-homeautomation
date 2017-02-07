@@ -1,10 +1,11 @@
 # rpi-tellstick-homeautomation
 Installation script for HomeAutomation for Raspberry PI.
 
-Link to HomeAutomation:
+HomeAutomation: http://karpero.mine.nu/ha/
 
-http://karpero.mine.nu/ha/
+Raspberry Pi: https://www.raspberrypi.org/
 
+Tellstick: http://forum.telldus.com/
 
 ## Clone this repository on RPI
 
