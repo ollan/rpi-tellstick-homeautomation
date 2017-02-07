@@ -30,3 +30,8 @@ Run
 Run
 ./install.sh
 (as root)
+
+## Backup HomeAutomation on RPi
+Run
+./backup.sh
+(as root)
