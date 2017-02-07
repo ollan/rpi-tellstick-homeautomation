@@ -6,7 +6,13 @@ HomeAutomation: http://karpero.mine.nu/ha/
 
 Raspberry Pi: https://www.raspberrypi.org/
 
+Raspbian Jessie Lite: https://www.raspberrypi.org/downloads/raspbian/
+
 Tellstick: http://forum.telldus.com/
+
+## Requirements
+
+Freshly installed RPi with Rasobian Jessie Lite.
 
 ## Clone this repository on RPI
 
